@@ -3,6 +3,8 @@
 So I hadn't used terraform in quite some time (probably over a year(ish)) and our little live coding of terraform was underwhelming.
 This repo goes along with a video of me consuming some terraform code, getting it working, extending it to use terragrunt, saying things to suggest how I think about approaching a terraform project, and then getting it working with Azure, etc.
 
+See https://www.youtube.com/watch?v=tfBChJ3tpiQ for the video.
+
 # Running terragrunt
 When I ran terragrunt I encountered this:
 ```bash
