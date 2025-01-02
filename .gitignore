@@ -2,3 +2,4 @@
 **/.terraform*
 **/.tfstate
 environment-variables.sh
+**/.terragrunt-cache/

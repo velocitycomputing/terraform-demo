@@ -1,5 +1,6 @@
 locals {
-  container_name       = "terraform-state"
-  resource_group_name  = "tacos73186"
-  storage_account_name = "tacos73186"
+  container_name = "tfstate"
+  resource_group_name = "tfstate"
+  storage_account_name = "tfstate6xu621p9nibjd"
 }
+

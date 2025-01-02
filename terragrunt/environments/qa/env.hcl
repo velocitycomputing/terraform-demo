@@ -1,7 +1,7 @@
 # Set the environment specific values
 locals {
-  subscription_id = "4d8e572a-3214-40e9-a26f-8f71ecd24e0d"
-  location        = "eastus"
+  subscription_id = "f8630e3e-fa74-4333-82b7-bd9ebbbaf0a5"
+  location        = "westus"
   common_tags = {
     environment = "qa"
   }
